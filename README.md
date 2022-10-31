@@ -1,7 +1,9 @@
 # Lab 5 - Starter
 
-Tamara Sagakova
+Lab was done individually by Tamara Sagakova
 
-Expose - https://tamarasagakova.github.io/Lab5_Starter/expose.html
+**Continuous Integration** - https://github.com/tamarasagakova/introduction-to-github
 
-Explore - https://tamarasagakova.github.io/Lab5_Starter/explore.html
+**Expose** - https://tamarasagakova.github.io/Lab5_Starter/expose.html
+
+**Explore** - https://tamarasagakova.github.io/Lab5_Starter/explore.html
